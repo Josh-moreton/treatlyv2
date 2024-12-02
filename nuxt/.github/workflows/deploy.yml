@@ -1,0 +1,4 @@
+- name: Setup pnpm
+  uses: pnpm/action-setup@v2
+  with:
+    version: 8.0.0 # Replace this with the desired pnpm version
