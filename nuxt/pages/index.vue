@@ -1,8 +1,8 @@
 <script setup lang="ts">
 
 useHead({
-  title: "Treatly",
-  meta: [{ name: "description", content: "Win yourself something special" }],
+  title: "Home - Lottery & Giveaway NuxtJs Template",
+  meta: [{ name: "description", content: "Lottery & Giveaway NuxtJs Template" }],
 });
 
 definePageMeta({
